@@ -1,29 +1,32 @@
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
-import { Github, Linkedin, Mail } from "lucide-react";
+import { Github, Linkedin, Mail, Instagram } from "lucide-react";
 
 const roles = [
   {
-    title: "Student HOD – CSE (Data Science)",
-    tagline: "Leading the next wave of innovation and collaboration in tech.",
+    title: "SSG Student HOD – CSE (Data Science)",
+    tagline:
+      "Working for the growth of our department and students through innovation and collaboration.",
   },
   {
     title: "Data Analyst Intern",
-    tagline: "Turning raw data into powerful decisions.",
+    tagline: "Transforming raw numbers into meaningful insights.",
   },
   {
     title: "Frontend Developer",
-    tagline: "Designing interfaces that feel as good as they look.",
+    tagline: "Building interfaces that blend beauty with performance.",
   },
   {
     title: "AI & Prompt Engineer",
-    tagline: "Crafting intelligent conversations between humans and machines.",
+    tagline: "Designing intelligent interactions between humans and machines.",
   },
   {
     title: "Content Creator @hem_writess",
-    tagline: "Writing words that heal, hurt, and hold hearts.",
+    tagline:
+      "Penning every feeling, emotion, and reality into poetry that inspires, connects, and resonates.",
   },
 ];
+
 
 export default function Hero() {
   const [index, setIndex] = useState(0);
@@ -88,10 +91,14 @@ export default function Hero() {
                 variant="outline"
                 asChild
               >
-                <a href="#resume" aria-label="View Resume">
+                <a
+                  href="https://drive.google.com/file/d/10Cya3rSyD5J3tnPgdlOJt50qcE7DYPh9/view?usp=sharing"
+                  aria-label="View Resume"
+                >
                   View Resume
                 </a>
               </Button>
+
               <div className="flex items-center gap-2 ml-1">
                 <a
                   className="inline-flex p-2 rounded-full hover:bg-muted transition-colors"
@@ -102,6 +109,7 @@ export default function Hero() {
                 >
                   <Github className="size-5 text-foreground" />
                 </a>
+
                 <a
                   className="inline-flex p-2 rounded-full hover:bg-muted transition-colors"
                   href="https://linkedin.com/in/pangoth-hemanth-nayak"
@@ -111,9 +119,20 @@ export default function Hero() {
                 >
                   <Linkedin className="size-5 text-foreground" />
                 </a>
+
                 <a
                   className="inline-flex p-2 rounded-full hover:bg-muted transition-colors"
-                  href="mailto:hemanth@example.com"
+                  href="https://instagram.com/hem_writess"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Instagram"
+                >
+                  <Instagram className="size-5 text-foreground" />
+                </a>
+
+                <a
+                  className="inline-flex p-2 rounded-full hover:bg-muted transition-colors"
+                  href="mailto:officia.hemanthnayakpangoth@gmail.com"
                   aria-label="Email"
                 >
                   <Mail className="size-5 text-foreground" />
@@ -130,7 +149,7 @@ export default function Hero() {
             <div className="relative group">
               <div className="aspect-square rounded-2xl overflow-hidden ring-1 ring-border bg-muted">
                 <img
-                  src="/images/profile-pic.png" // Image from public folder
+                  src="/images/profile-pic.jpg" // Ensure correct file name
                   alt="Pangoth Hemanth Nayak profile portrait"
                   className="h-full w-full object-cover transition-transform duration-200 group-hover:scale-105"
                   loading="lazy"
