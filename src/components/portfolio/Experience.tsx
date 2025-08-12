@@ -31,9 +31,9 @@ export default function Experience() {
   return (
     <section id="experience" className="container mx-auto py-20">
       <h2 className="font-heading text-3xl sm:text-4xl font-semibold text-foreground mb-8">Experience</h2>
-      <div ref={ref} data-inview={inView} className="grid md:grid-cols-2 gap-6">
+      <div ref={ref} data-inview={inView} className="grid md:grid-cols-2 gap-6 group">
         {items.map((e, i) => (
-          <article key={i} className="rounded-xl border bg-card p-5 shadow-sm opacity-0 data-[inview=true]:opacity-100 data-[inview=true]:animate-fade-slide-up" style={{ animationDelay: `${i * 0.15}s` }}>
+          <article key={i} className="rounded-xl border bg-card p-5 shadow-sm opacity-0 group-data-[inview=true]:opacity-100 group-data-[inview=true]:animate-fade-in" style={{ animationDelay: `${i * 0.15}s` }}>
             <div className="flex items-center justify-between">
               <div>
                 <h3 className="font-heading text-xl text-foreground">{e.role}</h3>
