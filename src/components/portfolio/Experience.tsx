@@ -3,15 +3,15 @@ import { useInView } from "@/hooks/useInView";
 
 const items = [
   {
-    company: "Google",
-    role: "Senior Frontend Developer",
-    period: "2023 – Present",
-    logo: "/placeholder.svg",
+    company: "Infotact Solutions",
+    role: "Associate L1 - Data Analyst",
+    period: "July 2025 – Present",
+    logo: "/public/images/Infotact.jpg",
     points: [
       "Led development of responsive web applications using React, TypeScript, and Tailwind CSS",
       "Improved application performance by 40% through code optimization and lazy loading",
       "Mentored 5 junior developers and established front-end best practices",
-      "Collaborated with UX/UI teams to implement pixel-perfect designs"
+      "Collaborated with UX/UI teams to implement pixel-perfect designs",
     ],
     offer: "#",
     certificate: "#",
@@ -25,7 +25,7 @@ const items = [
       "Developed and maintained large-scale React applications with 50k+ daily users",
       "Implemented automated testing strategies reducing bugs by 60%",
       "Built reusable component library adopted across 10+ teams",
-      "Optimized bundle size resulting in 30% faster load times"
+      "Optimized bundle size resulting in 30% faster load times",
     ],
     offer: "#",
     certificate: "#",
@@ -39,7 +39,7 @@ const items = [
       "Implemented new features for user-facing web applications",
       "Collaborated with cross-functional teams in agile environment",
       "Wrote comprehensive unit and integration tests",
-      "Participated in code reviews and knowledge sharing sessions"
+      "Participated in code reviews and knowledge sharing sessions",
     ],
     offer: "#",
     certificate: "#",
