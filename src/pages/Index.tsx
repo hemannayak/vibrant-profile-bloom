@@ -31,7 +31,7 @@ const Index = () => {
   };
 
   return (
-    <div className="min-h-screen bg-background text-foreground">
+    <div className="min-h-screen bg-background bg-texture-professional text-foreground">
       <Header />
       <main>
         <Hero />
