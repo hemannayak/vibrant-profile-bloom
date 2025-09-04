@@ -102,7 +102,7 @@ export default function Hero() {
               <div className="flex items-center gap-2 ml-1">
                 <a
                   className="inline-flex p-2 rounded-full hover:bg-muted transition-colors"
-                  href="https://github.com/Hem_writess"
+                  href="https://github.com/hemannayak"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="GitHub"
@@ -112,7 +112,7 @@ export default function Hero() {
 
                 <a
                   className="inline-flex p-2 rounded-full hover:bg-muted transition-colors"
-                  href="https://linkedin.com/in/pangoth-hemanth-nayak"
+                  href="https://www.linkedin.com/in/pangoth-hemanth-nayak-13195228b/"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="LinkedIn"
@@ -122,7 +122,7 @@ export default function Hero() {
 
                 <a
                   className="inline-flex p-2 rounded-full hover:bg-muted transition-colors"
-                  href="https://instagram.com/hem_writess"
+                  href="https://www.instagram.com/hem_writess/?__pwa=1"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Instagram"
@@ -132,7 +132,7 @@ export default function Hero() {
 
                 <a
                   className="inline-flex p-2 rounded-full hover:bg-muted transition-colors"
-                  href="mailto:officia.hemanthnayakpangoth@gmail.com"
+                  href="mailto:official.hemanthnayakpangoth@gmail.com"
                   aria-label="Email"
                 >
                   <Mail className="size-5 text-foreground" />

@@ -3,53 +3,69 @@ import { Button } from "@/components/ui/button";
 import { useInView } from "@/hooks/useInView";
 
 const items = [
-  { 
-    title: "E-Commerce Platform", 
-    desc: "Full-stack React application with Stripe integration, managing 10k+ products and real-time inventory tracking.", 
-    image: "/placeholder.svg",
-    tech: ["React", "Node.js", "MongoDB", "Stripe"],
-    live: "#", 
-    code: "#" 
+  {
+    title: "SnapFix – AI-Powered Civic Platform for Pothole Reporting",
+    desc: "Civic-tech solution to combat India’s pothole crisis. Users upload pothole images, AI validates & detects risk, auto-reports are generated with GPS, and community voting ensures transparency. Real-time maps, dashboards, and gamified UX drive public engagement. Built at Quantanova V1 SMEC Hackathon – Top 25 out of 110+ teams.",
+    image: "/public/images/Snapfix.png",
+    tech: ["ReactJS", "Tailwind", "Flask", "Teachable Machine", "Firebase", "MongoDB Atlas", "Leaflet.js"],
+    live: "https://tech-nova-smec-quantanova.vercel.app/",
+    Github: "https://github.com/hemannayak/TechNova_SMEC_Quantanova"
   },
   { 
-    title: "Task Management App", 
-    desc: "Collaborative project management tool with real-time updates, file sharing, and team communication features.", 
-    image: "/placeholder.svg",
-    tech: ["Next.js", "TypeScript", "Prisma", "WebSocket"],
-    live: "#", 
-    code: "#" 
+    title: "EV Demand Prediction Dashboard", 
+    desc: "AI-powered tool forecasting EV growth and charging demand using Random Forest Regression. Interactive dashboard with CSV export, trend analysis, and Streamlit deployment.", 
+    image: "/public/images/EV PREDICTION.png",
+    tech: ["Python", "Streamlit", "TensorFlow", "Pandas"],
+    live: "https://github.com/hemannayak/EV_Vehicle_Charge_Demand", 
+    Github: "https://evvehiclechargedemand-ks6y7qnqpenjnvkp7apdpo.streamlit.app/" 
   },
   { 
-    title: "AI Chat Application", 
-    desc: "Intelligent chatbot with natural language processing, sentiment analysis, and multi-language support.", 
-    image: "/placeholder.svg",
-    tech: ["React", "Python", "OpenAI", "FastAPI"],
-    live: "#", 
-    code: "#" 
+    title: "Projects on Matural Language Processing(NLP)", 
+    desc: "End-to-end NLP tasks including Sentiment Analysis, News Categorization, Fake News Detection (>95% F1), and Named Entity Recognition (NER). Built with SpaCy, Scikit-learn, BiLSTM, and TF-IDF pipelines.", 
+    image: "/public/images/NLP.jpg",
+    tech: ["Python", "SpaCy", "Scikit-learn", "Keras"],
+    live: "https://github.com/hemannayak/ElevvoPathways-NLP-Internship", 
+    Github: "https://github.com/hemannayak/ElevvoPathways-NLP-Internship" 
   },
   { 
-    title: "Social Media Dashboard", 
-    desc: "Analytics dashboard for social media management with data visualization and automated reporting.", 
-    image: "/placeholder.svg",
-    tech: ["Vue.js", "D3.js", "Express", "PostgreSQL"],
-    live: "#", 
-    code: "#" 
+    title: "LevelUp Learning – Enhancing Engagement with Gamification", 
+    desc: "Gamified e-learning platform (PBL project) integrating XP, badges, leaderboards, and interactive modules. Secure login, personalized dashboards, and Supabase real-time tracking. Earned full marks and moving towards deployment.", 
+    image: "/public/images/levelup.png",
+    tech: ["React", "TypeScript", "Tailwind", "Spring Boot", "Supabase"],
+    live: "https://preview--levelup-universe.lovable.app/", 
+    Github: "https://github.com/hemannayak/level-up-academy-hub" 
   },
   { 
-    title: "Fitness Tracking App", 
-    desc: "Mobile-first progressive web app for workout tracking with AR body scanning and nutrition planning.", 
-    image: "/placeholder.svg",
-    tech: ["React Native", "Three.js", "Firebase", "ML Kit"],
+    title: "Website of Indian Heritage and Culture", 
+    desc: "Smart India Hackathon project showcasing India’s cultural diversity through interactive sections, heritage exploration, and smooth UX. Built in 24 hours hackathon at HITAM.", 
+    image: "/public/images/heritage.png",
+    tech: ["HTML5", "CSS", "JavaScript"],
     live: "#", 
-    code: "#" 
+    Github: "#" 
   },
   { 
-    title: "Blockchain Wallet", 
-    desc: "Secure cryptocurrency wallet with multi-chain support, DeFi integration, and hardware wallet connectivity.", 
-    image: "/placeholder.svg",
-    tech: ["React", "Web3.js", "Solidity", "MetaMask"],
+    title: "Personal Portfolio Website", 
+    desc: "Responsive and engaging personal portfolio site to showcase skills, projects, and experiences. Designed to reflect personality and professional journey.", 
+    image: "/public/images/portfolio.png",
+    tech: ["HTML5", "CSS", "JavaScript"],
+    live: "https://hemannayak.github.io/hemanthh-portfolio/", 
+    Github: "https://github.com/hemannayak/hemanthh-portfolio" 
+  },
+  { 
+    title: "Hospital Management System", 
+    desc: "DBMS project that streamlines doctor-patient appointment scheduling with dedicated modules for patients and doctors. Improves hospital efficiency and user experience.", 
+    image: "/public/images/hms.png",
+    tech: ["Java", "DBMS", "JavaScript"],
     live: "#", 
-    code: "#" 
+    Github: "#" 
+  },
+  { 
+    title: "E-Commerce Website using Django", 
+    desc: "Full-stack e-commerce platform with authentication, product catalog, shopping cart, order management, and admin dashboard. Built with Django MVC framework and SQL database.", 
+    image: "/public/images/django-shop.png",
+    tech: ["Django", "Python", "MySQL", "JavaScript"],
+    live: "#", 
+    Github: "#" 
   },
 ];
 

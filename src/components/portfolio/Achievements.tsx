@@ -2,46 +2,39 @@ import { useInView } from "@/hooks/useInView";
 
 const items = [
   { 
-    title: "Google Developer Challenge Winner", 
-    date: "2024", 
-    description: "1st place among 5000+ participants",
-    icon: "🏆",
-    image: "/placeholder.svg"
+    title: "SSG Student HOD", 
+    date: "May 2025 - Present", 
+    description: "Lead SSG initiatives for Computer Science Department, coordinating between students, faculty, and administration", 
+    icon: "👨‍💼", 
+    image: "/public/images/SSG 2026.jpeg"
   },
   { 
-    title: "Open Source Contributor", 
-    date: "2023", 
-    description: "Top 100 contributors on GitHub",
-    icon: "⭐",
-    image: "/placeholder.svg"
+    title: "SSG Student Coordinator", 
+    date: "August 2024 - May 2025", 
+    description: "Planned and executed monthly SSG Days, organized events and workshops to maximize student participation", 
+    icon: "👨‍💼", 
+    image: "/public/images/SSG2025.png"
   },
   { 
-    title: "Tech Conference Speaker", 
-    date: "2023", 
-    description: "Presented at React Summit 2023",
-    icon: "🎤",
-    image: "/placeholder.svg"
+    title: "LinkedIn Creator", 
+    date: "2023 - Present", 
+    description: "5K+ followers and 200K+ impressions through impactful content as @hem_writess", 
+    icon: "🌐", 
+    image: "/public/images/Linkedin..webp"
   },
   { 
-    title: "Dean's List Scholar", 
-    date: "2022", 
-    description: "Academic excellence recognition",
-    icon: "🎓",
-    image: "/placeholder.svg"
+    title: "Writer & Poet", 
+    date: "2022 - Present", 
+    description: "Curates heartfelt reflections and poetry under @hem_writess, transforming emotions into words", 
+    icon: "✍️", 
+    image: "/public/images/hem.jpg"
   },
   { 
-    title: "Startup Accelerator Graduate", 
-    date: "2022", 
-    description: "Y Combinator cohort completion",
-    icon: "🚀",
-    image: "/placeholder.svg"
-  },
-  { 
-    title: "Innovation Award", 
-    date: "2021", 
-    description: "Best AI project at university",
-    icon: "💡",
-    image: "/placeholder.svg"
+    title: "Aspire Leaders Program", 
+    date: "Aug - Oct 2025", 
+    description: "Harvard Business School Aspire Leaders Program Fellow - Cohort 4", 
+    icon: "🎓", 
+    image: "/public/images/Aspire (1).png"
   },
 ];
 
@@ -70,7 +63,7 @@ export default function Achievements() {
                   src={a.image} 
                   alt={`${a.title} image`} 
                   loading="lazy" 
-                  className="w-full aspect-video object-cover transition-transform duration-300 group-hover:scale-105" 
+                  className="w-full aspect-video object-contain bg-white transition-transform duration-300 group-hover:scale-105" 
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <div className="absolute top-3 right-3 text-2xl bg-white/90 backdrop-blur-sm rounded-full w-12 h-12 flex items-center justify-center">

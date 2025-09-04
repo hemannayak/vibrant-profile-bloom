@@ -20,8 +20,8 @@ const items = [
   {
     company: "Excelerate",
     role: "Data Analyst Trainee Intern",
-    period: "July 2025 – Present",
-    logo: "/placeholder.svg",
+    period: "July 2025 – August 2025",
+    logo: "/public/images/Exe.jpeg",
     points: [
       "Trained in core data analytics concepts, including data cleaning, visualization, and reporting.",
       "Worked on a real-time dataset from GlobalShala’s 'Superhero U' Facebook ad campaigns targeting students and educators/principals.",
@@ -35,8 +35,8 @@ const items = [
   {
     company: "Elevvo Pathways",
     role: "Natural Language Processing Intern",
-    period: "July 2025 – Present",
-    logo: "/placeholder.svg",
+    period: "July 2025 – August 2025",
+    logo: "/public/images/ele.webp",
     points: [
       "Worked with Natural Language Processing (NLP) models to process and analyze diverse text datasets.",
       "Implemented preprocessing techniques including tokenization, stemming, lemmatization, and stop-word removal.",
@@ -50,13 +50,12 @@ const items = [
     ],
     offer: "#",
     certificate: "#",
-    github: "https://github.com/hemannayak/ElevvoPathways-NLP-Internship",
   },
   {
     company: "Edunet Foundation",
     role: "Intern – Shell x Edunet x AICTE (Skills4Future Program)",
-    period: "July 2025 – Present",
-    logo: "/placeholder.svg",
+    period: "July 2025 – August 2025",
+    logo: "/public/images/edunet.png",
     points: [
       "Developed a machine learning model to forecast EV adoption for the next 1–5 years using Washington State registration data.",
       "Performed data cleaning, transformation, and time series feature engineering (lags, trends, rolling averages).",
@@ -70,8 +69,8 @@ const items = [
   {
     company: "ApexPlanet Software Pvt Ltd",
     role: "Web Development Intern",
-    period: "July 2025 – Present",
-    logo: "/placeholder.svg",
+    period: "July 2025 – August 2025",
+    logo: "/public/images/Apexplanet.jpeg",
     points: [
       "Completed a 45-day internship covering end-to-end HTML, CSS, and JavaScript development, from basics to advanced concepts.",
       "Task 1: Built a basic webpage with HTML structure, CSS styling, and JavaScript interactivity (alert button).",
@@ -87,7 +86,7 @@ const items = [
     company: "VaultofCodes",
     role: "AI & Prompt Engineering Intern",
     period: "June 2025 – July 2025",
-    logo: "/placeholder.svg",
+    logo: "/public/images/VOC.jpg",
     points: [
       "Studied the behavior and underlying working principles of large language models (LLMs).",
       "Learned techniques for crafting clear, concise, and context-rich prompts to improve LLM output accuracy and relevance.",
@@ -102,7 +101,7 @@ const items = [
     company: "CodeAlpha",
     role: "Data Analytics Intern",
     period: "July 2025 – August 2025",
-    logo: "/placeholder.svg",
+    logo: "/public/images/codealpha.jpeg",
     points: [
       "Completed data analytics projects involving web scraping, exploratory data analysis (EDA), and data visualization.",
       "Used Python, BeautifulSoup, and Pandas to collect, clean, and prepare datasets for analysis.",
@@ -117,7 +116,7 @@ const items = [
     company: "HITAM",
     role: "Student HOD – Student Self Governance (SSG)",
     period: "May 2025 – Present",
-    logo: "/placeholder.svg",
+    logo: "/public/images/SSG 2026.jpeg",
     points: [
       "Lead the Student Self Governance (SSG) initiatives for the Computer Science Department, ensuring smooth coordination between students, faculty, and administration.",
       "Plan, organize, and oversee departmental events, workshops, orientation programs, and interactive sessions to enhance student engagement and learning experiences.",
@@ -130,20 +129,20 @@ const items = [
     certificate: "#",
   },
   {
-  company: "HITAM",
-  role: "Student Coordinator – Student Self Governance (SSG)",
-  period: "August 2024 – May 2025",
-  logo: "/placeholder.svg",
-  points: [
-    "Planned and executed monthly ‘SSG Days’ with a structured agenda to address student needs and departmental goals.",
-    "Organized events, workshops, and meetings in a well-coordinated manner to maximize participation and impact.",
-    "Supported students in academic matters by facilitating study groups, resource sharing, and mentorship opportunities.",
-    "Actively identified and resolved student issues by working closely with faculty and administration.",
-    "Collected genuine student feedback and translated it into actionable improvements for the department’s academic and extracurricular environment."
-  ],
-  offer: "#",
-  certificate: "#",
-},
+    company: "HITAM",
+    role: "Student Coordinator – Student Self Governance (SSG)",
+    period: "August 2024 – May 2025",
+    logo: "/public/images/SSG2025.png",
+    points: [
+      "Planned and executed monthly ‘SSG Days’ with a structured agenda to address student needs and departmental goals.",
+      "Organized events, workshops, and meetings in a well-coordinated manner to maximize participation and impact.",
+      "Supported students in academic matters by facilitating study groups, resource sharing, and mentorship opportunities.",
+      "Actively identified and resolved student issues by working closely with faculty and administration.",
+      "Collected genuine student feedback and translated it into actionable improvements for the department’s academic and extracurricular environment.",
+    ],
+    offer: "#",
+    certificate: "#",
+  },
 ];
 
 export default function Experience() {

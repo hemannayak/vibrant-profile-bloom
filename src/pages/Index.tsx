@@ -11,23 +11,29 @@ import Testimonials from "@/components/portfolio/Testimonials";
 import Contact from "@/components/portfolio/Contact";
 import Footer from "@/components/portfolio/Footer";
 import ChatButton from "@/components/portfolio/ChatButton";
+import AIChatbot from "@/components/portfolio/AIChatbot";
 import { useEffect } from "react";
 
 const Index = () => {
   useEffect(() => {
-    document.title = "Your Name — Portfolio";
+    document.title = "Pangoth Hemanth Nayak — Portfolio";
     const desc = document.querySelector('meta[name="description"]');
-    if (desc) desc.setAttribute('content', 'Professional portfolio of Your Name: projects, experience, and contact.');
+    if (desc) desc.setAttribute('content', 'Professional portfolio of Pangoth Hemanth Nayak: projects, experience, and contact.');
   }, []);
 
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "Person",
-    name: "Your Name",
+    name: "Pangoth Hemanth Nayak",
     url: typeof window !== 'undefined' ? window.location.origin : '',
-    sameAs: ["https://github.com/your", "https://www.linkedin.com/in/your"],
-    jobTitle: "Your Title",
-    worksFor: { "@type": "Organization", name: "Your Org" }
+    sameAs: [
+      "https://github.com/hemannayak",
+      "https://www.linkedin.com/in/pangoth-hemanth-nayak-13195228b/",
+      "https://www.instagram.com/heyy__heman",
+      "https://www.instagram.com/hem_writess/?__pwa=1"
+    ],
+    jobTitle: "",
+    worksFor: { "@type": "Organization", name: "" }
   };
 
   return (
@@ -47,6 +53,7 @@ const Index = () => {
       </main>
       <Footer />
       <ChatButton />
+      <AIChatbot />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
     </div>
   );
