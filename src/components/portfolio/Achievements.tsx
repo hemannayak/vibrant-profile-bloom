@@ -20,21 +20,21 @@ const items = [
     date: "2023 - Present", 
     description: "5K+ followers and 200K+ impressions through impactful content as @hem_writess", 
     icon: "🌐", 
-    image: "/public/images/Linkedin..webp"
+    image: "/public/images/Linkedin.png"
   },
   { 
     title: "Writer & Poet", 
     date: "2022 - Present", 
     description: "Curates heartfelt reflections and poetry under @hem_writess, transforming emotions into words", 
     icon: "✍️", 
-    image: "/public/images/hem.jpg"
+    image: "/public/images/hem_writess.jpg"
   },
   { 
     title: "Aspire Leaders Program", 
     date: "Aug - Oct 2025", 
     description: "Harvard Business School Aspire Leaders Program Fellow - Cohort 4", 
     icon: "🎓", 
-    image: "/public/images/Aspire (1).png"
+    image: "/public/images/Aspire.png"
   },
 ];
 

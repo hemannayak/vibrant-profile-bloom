@@ -14,7 +14,7 @@ const items = [
   { 
     title: "EV Demand Prediction Dashboard", 
     desc: "AI-powered tool forecasting EV growth and charging demand using Random Forest Regression. Interactive dashboard with CSV export, trend analysis, and Streamlit deployment.", 
-    image: "/public/images/EV PREDICTION.png",
+    image: "/public/images/Ev_Prediction.png",
     tech: ["Python", "Streamlit", "TensorFlow", "Pandas"],
     live: "https://github.com/hemannayak/EV_Vehicle_Charge_Demand", 
     Github: "https://evvehiclechargedemand-ks6y7qnqpenjnvkp7apdpo.streamlit.app/" 
@@ -22,7 +22,7 @@ const items = [
   { 
     title: "Projects on Matural Language Processing(NLP)", 
     desc: "End-to-end NLP tasks including Sentiment Analysis, News Categorization, Fake News Detection (>95% F1), and Named Entity Recognition (NER). Built with SpaCy, Scikit-learn, BiLSTM, and TF-IDF pipelines.", 
-    image: "/public/images/NLP.jpg",
+    image: "/public/images/NLP.png",
     tech: ["Python", "SpaCy", "Scikit-learn", "Keras"],
     live: "https://github.com/hemannayak/ElevvoPathways-NLP-Internship", 
     Github: "https://github.com/hemannayak/ElevvoPathways-NLP-Internship" 
@@ -62,7 +62,7 @@ const items = [
   { 
     title: "E-Commerce Website using Django", 
     desc: "Full-stack e-commerce platform with authentication, product catalog, shopping cart, order management, and admin dashboard. Built with Django MVC framework and SQL database.", 
-    image: "/public/images/django-shop.png",
+    image: "/public/images/django_shop.png",
     tech: ["Django", "Python", "MySQL", "JavaScript"],
     live: "#", 
     Github: "#" 

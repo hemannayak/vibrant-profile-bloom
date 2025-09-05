@@ -13,25 +13,25 @@ const items = [
     quote: "Hemanth has been an exceptional member of HITAM's Student Self Governance (SSG), demonstrating an inspiring journey of growth and transformation. Initially composed and reserved, he gradually stepped into his potential—consistently contributing thoughtful ideas and taking initiative within his department. His evolution into a confident leader, paired with his collaborative mindset and strong interpersonal skills, has made a lasting impact on our team. Hemanth’s dedication, adaptability, and drive to improve set him apart. I am confident in his continued success and excited to see the heights he will reach in the future.", 
     name: "Ishita Roy", 
     role: "SSG- Student Director 2024",
-    image: "/images/ishita.png"
+    image: "/public/images/ishita.png"
   },
   { 
     quote: "Hemanth, I’ve really admired the effort and dedication you’ve shown as part of SSG. Watching you grow from a coordinator to Student HOD has been amazing, and I honestly believe you’re well on your way to making it to the core team too. It reminds me a lot of my own SSG journey 😅.Also, I’ve been noticing how actively you’re building your network on LinkedIn—it’s great to see! Keep up the good work and stay consistent. Wishing you all the best ahead!", 
     name: "karthik Manda", 
     role: "SSG - Student Dean CDC ",
-    image: "/images/Karthik.png"
+    image: "/public/images/Karthik.png"
   },
   { 
     quote: "Hemanth, you’ve always been super talented—with amazing communication, organizing, and tech skills. It’s honestly so cool how you manage to balance everything so well without losing that creative spark.I loved going through your portfolio—it truly shows your hard work and passion. Can’t wait to see more creative stuff from you in the future! Wishing you all the best always! Anytime, Hemanth 🫶🏻", 
     name: "Gnanitha Suryadevara", 
     role: "SSG - Student Dean R&D",
-    image: "/images/Gnanitha.png"
+    image: "/public/images/Gnanitha.png"
   },
   { 
     quote: "Hemanth, I’ve always genuinely admired the level of commitment and dedication you bring to everything you take on. Whether it's a small responsibility or a big challenge, you approach it with the same sincerity, focus, and drive—and that’s something really rare.Your consistency, attention to detail, and the way you take ownership of your work truly stand out. It’s not just about completing tasks—it’s about the energy, thought, and care you put into them that makes a difference. You’re someone who sets a quiet but powerful example for others to follow, just by doing what you do, the way you do it. Keep going strong—you’re doing amazing, and I’m sure there’s so much more ahead for you!", 
     name: "Sree Varsha", 
     role: "SSG - Student Principal 2025",
-    image: "/images/varsha.png"
+    image: "/public/images/Varsha.png"
   },
 ];
 
