@@ -6,7 +6,7 @@ const items = [
     date: "May 2025 - Present", 
     description: "Lead SSG initiatives for Computer Science Department, coordinating between students, faculty, and administration", 
     icon: "👨‍💼", 
-    image: "/public/images/SSG 2026.jpeg"
+    image: "/public/images/SSG 2026.png"
   },
   { 
     title: "SSG Student Coordinator", 
