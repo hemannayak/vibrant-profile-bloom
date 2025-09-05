@@ -14,7 +14,7 @@ const items = [
       "Learned and applied data storytelling techniques to effectively present dashboards and guide decision-making.",
       "Collaborated with the team to ensure dashboards were accurate, relevant, and aligned with business needs.",
     ],
-    offer: "#",
+    offer: "https://drive.google.com/file/d/1YM2n9vL5G33MSx5DF0SBXMe0Fei0Tybe/view?usp=sharing",
     certificate: "#",
   },
   {
@@ -29,7 +29,7 @@ const items = [
       "Provided actionable insights to help the marketing team optimize ad strategies, allocate budgets efficiently, and maximize event participation.",
       "Identified India and Nepal as top regions with the highest engagement and campaign performance.",
     ],
-    offer: "#",
+    offer: "https://drive.google.com/file/d/12yabijnPMxYvnLI8jTtjMnvIM62UAbBM/view?usp=sharing",
     certificate: "#",
   },
   {
@@ -48,7 +48,7 @@ const items = [
       "Explored real-world applications of NLP such as text classification, information extraction, and sentiment analysis to solve domain-specific problems.",
       "Documented work and maintained all projects in a public GitHub repository for transparency and collaboration.",
     ],
-    offer: "#",
+    offer: "https://drive.google.com/file/d/14-L-zowOROHOjBNoJowFhY-qf-iY8EBF/view?usp=sharing",
     certificate: "#",
   },
   {
@@ -63,7 +63,7 @@ const items = [
       "Designed and deployed an interactive Streamlit dashboard with trend visualizations, multi-county comparisons, and CSV export.",
       "Provided insights to support infrastructure planning and policy decisions.",
     ],
-    offer: "#",
+    offer: "https://drive.google.com/file/d/1EQJ0ZW3HzZ-mnF9f8fWNHmb4WnMYP-H0/view?usp=sharing",
     certificate: "#",
   },
   {
@@ -79,7 +79,7 @@ const items = [
       "Task 4: Created a product listing page with filtering and sorting functionality, and implemented localStorage-based to-do/notes apps.",
       "Task 5: Developed and optimized a fully responsive personal portfolio web application, improving load speed through asset optimization and ensuring cross-browser compatibility.",
     ],
-    offer: "#",
+    offer: "https://drive.google.com/file/d/1897_1BAq8lJbHDbuRiAogQMM0slVNAh4/view?usp=sharing",
     certificate: "#",
   },
   {
@@ -94,7 +94,7 @@ const items = [
       "Applied prompt engineering best practices to build AI-powered chatbots and Q&A systems for test scenarios.",
       "Explored automation workflows integrating LLMs into real-world tasks.",
     ],
-    offer: "#",
+    offer: "https://drive.google.com/file/d/1B4h_XM1Fd64mCb6D1rW-zvgVSaaqKOt3/view?usp=sharing",
     certificate: "#",
   },
   {
@@ -109,7 +109,7 @@ const items = [
       "Created clear and impactful visualizations using Matplotlib and Seaborn to support data-driven decision-making.",
       "Applied portfolio-focused best practices by publishing code on GitHub and presenting project outcomes.",
     ],
-    offer: "#",
+    offer: "https://drive.google.com/file/d/1-2jGsdQ2TIFu6avJpcSj2IidTUkZ-zw-/view?usp=sharing",
     certificate: "#",
   },
   {
@@ -125,8 +125,8 @@ const items = [
       "Coordinate cross-departmental collaborations, student-led projects, and peer-support programs to promote leadership, teamwork, and a positive campus culture.",
       "Mentor junior representatives and guide them in communication, event management, and problem-solving to ensure continuity of student leadership.",
     ],
-    offer: "#",
-    certificate: "#",
+    offer: "https://www.instagram.com/p/DJTPYe-zOVO/?utm_source=ig_web_copy_link&igsh=eHZoenQ0MWQwd2E2",
+    certificate: "https://www.instagram.com/p/DJTPYe-zOVO/?utm_source=ig_web_copy_link&igsh=eHZoenQ0MWQwd2E2",
   },
   {
     company: "HITAM",
@@ -140,8 +140,8 @@ const items = [
       "Actively identified and resolved student issues by working closely with faculty and administration.",
       "Collected genuine student feedback and translated it into actionable improvements for the department’s academic and extracurricular environment.",
     ],
-    offer: "#",
-    certificate: "#",
+    offer: "https://www.instagram.com/p/C_uYtRSzULg/?utm_source=ig_web_copy_link&igsh=djg2dnpnZXR2ZWFn",
+    certificate: "https://www.instagram.com/p/C_uYtRSzULg/?utm_source=ig_web_copy_link&igsh=djg2dnpnZXR2ZWFn",
   },
 ];
 
