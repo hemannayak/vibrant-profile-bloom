@@ -149,7 +149,7 @@ export default function Hero() {
             <div className="relative group">
               <div className="aspect-square rounded-2xl overflow-hidden ring-1 ring-border bg-muted">
                 <img
-                  src="/public/images/profile-pic.png" // Ensure correct file name
+                  src="/images/profile-pic.png" // Ensure correct file name
                   alt="Pangoth Hemanth Nayak profile portrait"
                   className="h-full w-full object-cover transition-transform duration-200 group-hover:scale-105"
                   loading="lazy"
