@@ -7,7 +7,7 @@ const items = [
     degree: "B Tech in Computer Science Engineering - Data Science",
     period: "2023 – 2027",
     gpa: "8.5/10",
-    logo: "/public/images/Hitam.png", // no /public prefix
+    logo: "/images/Hitam.png", // no /public prefix
     link: "https://hitam.org/",
   },
   {
@@ -15,7 +15,7 @@ const items = [
     degree: "Intermediate - MPC",
     period: "2021 – 2023",
     gpa: "91.1%",
-    logo: "/public/images/InterCollege.jpg",
+    logo: "/images/InterCollege.jpg",
     link: "https://mjptbcwreis.telangana.gov.in/",
   },
   {
@@ -23,7 +23,7 @@ const items = [
     degree: "SSC",
     period: "2021",
     gpa: "100%%",
-    logo: "/public/images/ZPHS.png",
+    logo: "/images/ZPHS.png",
     link: "https://schooledu.telangana.gov.in/SCHOOLEDUCATION/",
   },
 ];

@@ -12,7 +12,7 @@ export default function About() {
       >
         {/* Profile Image */}
         <img
-          src="/public/images/hem1.png" // Replace with your actual image path in public/images
+          src="/images/hem1.png" // Replace with your actual image path in public/images
           alt="Pangoth Hemanth Nayak profile"
           loading="lazy"
           className="w-full h-auto object-cover rounded-xl transition-transform duration-300 hover:scale-[1.02] shadow"

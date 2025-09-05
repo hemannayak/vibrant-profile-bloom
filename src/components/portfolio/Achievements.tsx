@@ -6,35 +6,35 @@ const items = [
     date: "May 2025 - Present", 
     description: "Lead SSG initiatives for Computer Science Department, coordinating between students, faculty, and administration", 
     icon: "👨‍💼", 
-    image: "/public/images/SSG 2026.png"
+    image: "/images/SSG 2026.png"
   },
   { 
     title: "SSG Student Coordinator", 
     date: "August 2024 - May 2025", 
     description: "Planned and executed monthly SSG Days, organized events and workshops to maximize student participation", 
     icon: "👨‍💼", 
-    image: "/public/images/SSG2025.png"
+    image: "/images/SSG2025.png"
   },
   { 
     title: "LinkedIn Creator", 
     date: "2023 - Present", 
     description: "5K+ followers and 200K+ impressions through impactful content as @hem_writess", 
     icon: "🌐", 
-    image: "/public/images/Linkedin.png"
+    image: "/images/Linkedin.png"
   },
   { 
     title: "Writer & Poet", 
     date: "2022 - Present", 
     description: "Curates heartfelt reflections and poetry under @hem_writess, transforming emotions into words", 
     icon: "✍️", 
-    image: "/public/images/hem_writess.jpg"
+    image: "/images/hem_writess.jpg"
   },
   { 
     title: "Aspire Leaders Program", 
     date: "Aug - Oct 2025", 
     description: "Harvard Business School Aspire Leaders Program Fellow - Cohort 4", 
     icon: "🎓", 
-    image: "/public/images/Aspire.png"
+    image: "/images/Aspire.png"
   },
 ];
 
