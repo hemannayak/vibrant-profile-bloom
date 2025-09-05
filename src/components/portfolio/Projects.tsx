@@ -6,7 +6,7 @@ const items = [
   {
     title: "SnapFix – AI-Powered Civic Platform for Pothole Reporting",
     desc: "Civic-tech solution to combat India’s pothole crisis. Users upload pothole images, AI validates & detects risk, auto-reports are generated with GPS, and community voting ensures transparency. Real-time maps, dashboards, and gamified UX drive public engagement. Built at Quantanova V1 SMEC Hackathon – Top 25 out of 110+ teams.",
-    image: "/public/images/Snapfix.png",
+    image: "/images/Snapfix.png",
     tech: ["ReactJS", "Tailwind", "Flask", "Teachable Machine", "Firebase", "MongoDB Atlas", "Leaflet.js"],
     live: "https://tech-nova-smec-quantanova.vercel.app/",
     Github: "https://github.com/hemannayak/TechNova_SMEC_Quantanova"
@@ -14,7 +14,7 @@ const items = [
   { 
     title: "EV Demand Prediction Dashboard", 
     desc: "AI-powered tool forecasting EV growth and charging demand using Random Forest Regression. Interactive dashboard with CSV export, trend analysis, and Streamlit deployment.", 
-    image: "/public/images/Ev_Prediction.png",
+    image: "/images/Ev_Prediction.png",
     tech: ["Python", "Streamlit", "TensorFlow", "Pandas"],
     live: "https://github.com/hemannayak/EV_Vehicle_Charge_Demand", 
     Github: "https://evvehiclechargedemand-ks6y7qnqpenjnvkp7apdpo.streamlit.app/" 
@@ -22,7 +22,7 @@ const items = [
   { 
     title: "Projects on Matural Language Processing(NLP)", 
     desc: "End-to-end NLP tasks including Sentiment Analysis, News Categorization, Fake News Detection (>95% F1), and Named Entity Recognition (NER). Built with SpaCy, Scikit-learn, BiLSTM, and TF-IDF pipelines.", 
-    image: "/public/images/NLP.png",
+    image: "/images/NLP.png",
     tech: ["Python", "SpaCy", "Scikit-learn", "Keras"],
     live: "https://github.com/hemannayak/ElevvoPathways-NLP-Internship", 
     Github: "https://github.com/hemannayak/ElevvoPathways-NLP-Internship" 
@@ -30,7 +30,7 @@ const items = [
   { 
     title: "LevelUp Learning – Enhancing Engagement with Gamification", 
     desc: "Gamified e-learning platform (PBL project) integrating XP, badges, leaderboards, and interactive modules. Secure login, personalized dashboards, and Supabase real-time tracking. Earned full marks and moving towards deployment.", 
-    image: "/public/images/levelup.png",
+    image: "/images/levelup.png",
     tech: ["React", "TypeScript", "Tailwind", "Spring Boot", "Supabase"],
     live: "https://preview--levelup-universe.lovable.app/", 
     Github: "https://github.com/hemannayak/level-up-academy-hub" 
@@ -38,7 +38,7 @@ const items = [
   { 
     title: "Website of Indian Heritage and Culture", 
     desc: "Smart India Hackathon project showcasing India’s cultural diversity through interactive sections, heritage exploration, and smooth UX. Built in 24 hours hackathon at HITAM.", 
-    image: "/public/images/heritage.png",
+    image: "/images/heritage.png",
     tech: ["HTML5", "CSS", "JavaScript"],
     live: "#", 
     Github: "#" 
@@ -46,7 +46,7 @@ const items = [
   { 
     title: "Personal Portfolio Website", 
     desc: "Responsive and engaging personal portfolio site to showcase skills, projects, and experiences. Designed to reflect personality and professional journey.", 
-    image: "/public/images/portfolio.png",
+    image: "/images/portfolio.png",
     tech: ["HTML5", "CSS", "JavaScript"],
     live: "https://hemannayak.github.io/hemanthh-portfolio/", 
     Github: "https://github.com/hemannayak/hemanthh-portfolio" 
@@ -54,7 +54,7 @@ const items = [
   { 
     title: "Hospital Management System", 
     desc: "DBMS project that streamlines doctor-patient appointment scheduling with dedicated modules for patients and doctors. Improves hospital efficiency and user experience.", 
-    image: "/public/images/hms.png",
+    image: "/images/hms.png",
     tech: ["Java", "DBMS", "JavaScript"],
     live: "#", 
     Github: "#" 
@@ -62,7 +62,7 @@ const items = [
   { 
     title: "E-Commerce Website using Django", 
     desc: "Full-stack e-commerce platform with authentication, product catalog, shopping cart, order management, and admin dashboard. Built with Django MVC framework and SQL database.", 
-    image: "/public/images/django_shop.png",
+    image: "/images/django_shop.png",
     tech: ["Django", "Python", "MySQL", "JavaScript"],
     live: "#", 
     Github: "#" 
@@ -116,7 +116,7 @@ export default function Projects() {
                   </a>
                 </Button>
                 <Button variant="outline" size="sm" className="flex-1 font-button hover-scale" asChild>
-                  <a href={p.code} target="_blank" rel="noopener">
+                  <a href={p.Github} target="_blank" rel="noopener">
                     <Github className="size-4 mr-1"/> Code
                   </a>
                 </Button>

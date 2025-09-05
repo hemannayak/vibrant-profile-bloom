@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
-import { Github, Linkedin, Mail, Instagram } from "lucide-react";
 
 const roles = [
   {
@@ -127,7 +126,7 @@ export default function Hero() {
                   rel="noopener noreferrer"
                   aria-label="Instagram"
                 >
-                  <Instagram className="size-5 text-foreground" />
+                  <InstagramIcon className="size-5 text-foreground" />
                 </a>
 
                 <a
