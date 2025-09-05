@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Button } from "@/components/ui/button";
+import { Github, Linkedin, Mail, InstagramIcon } from "lucide-react";
 
 const roles = [
   {
