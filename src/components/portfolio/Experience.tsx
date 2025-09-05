@@ -6,7 +6,7 @@ const items = [
     company: "Infotact Solutions",
     role: "Associate L1 - Data Analyst Intern",
     period: "July 2025 – Present",
-    logo: "/public/images/Infotact.jpg",
+    logo: "/public/images/Infotact.png",
     points: [
       "Worked on a real-time dataset containing 2000–3000 records, performing data cleaning, transformation, and processing for in-depth analysis.",
       "Created pivot tables, KPIs, and interactive dashboards in Excel to derive actionable insights.",
@@ -21,7 +21,7 @@ const items = [
     company: "Excelerate",
     role: "Data Analyst Trainee Intern",
     period: "July 2025 – August 2025",
-    logo: "/public/images/Exe.jpeg",
+    logo: "/public/images/Exe.png",
     points: [
       "Trained in core data analytics concepts, including data cleaning, visualization, and reporting.",
       "Worked on a real-time dataset from GlobalShala’s 'Superhero U' Facebook ad campaigns targeting students and educators/principals.",
@@ -36,7 +36,7 @@ const items = [
     company: "Elevvo Pathways",
     role: "Natural Language Processing Intern",
     period: "July 2025 – August 2025",
-    logo: "/public/images/ele.webp",
+    logo: "/public/images/ele.png",
     points: [
       "Worked with Natural Language Processing (NLP) models to process and analyze diverse text datasets.",
       "Implemented preprocessing techniques including tokenization, stemming, lemmatization, and stop-word removal.",
@@ -70,7 +70,7 @@ const items = [
     company: "ApexPlanet Software Pvt Ltd",
     role: "Web Development Intern",
     period: "July 2025 – August 2025",
-    logo: "/public/images/Apexplanet.jpeg",
+    logo: "/public/images/Apexplanet.png",
     points: [
       "Completed a 45-day internship covering end-to-end HTML, CSS, and JavaScript development, from basics to advanced concepts.",
       "Task 1: Built a basic webpage with HTML structure, CSS styling, and JavaScript interactivity (alert button).",
@@ -86,7 +86,7 @@ const items = [
     company: "VaultofCodes",
     role: "AI & Prompt Engineering Intern",
     period: "June 2025 – July 2025",
-    logo: "/public/images/VOC.jpg",
+    logo: "/public/images/VOC.png",
     points: [
       "Studied the behavior and underlying working principles of large language models (LLMs).",
       "Learned techniques for crafting clear, concise, and context-rich prompts to improve LLM output accuracy and relevance.",
@@ -101,7 +101,7 @@ const items = [
     company: "CodeAlpha",
     role: "Data Analytics Intern",
     period: "July 2025 – August 2025",
-    logo: "/public/images/codealpha.jpeg",
+    logo: "/public/images/codealpha.png",
     points: [
       "Completed data analytics projects involving web scraping, exploratory data analysis (EDA), and data visualization.",
       "Used Python, BeautifulSoup, and Pandas to collect, clean, and prepare datasets for analysis.",
@@ -116,7 +116,7 @@ const items = [
     company: "HITAM",
     role: "Student HOD – Student Self Governance (SSG)",
     period: "May 2025 – Present",
-    logo: "/public/images/SSG 2026.jpeg",
+    logo: "/public/images/SSG 2026.png",
     points: [
       "Lead the Student Self Governance (SSG) initiatives for the Computer Science Department, ensuring smooth coordination between students, faculty, and administration.",
       "Plan, organize, and oversee departmental events, workshops, orientation programs, and interactive sessions to enhance student engagement and learning experiences.",

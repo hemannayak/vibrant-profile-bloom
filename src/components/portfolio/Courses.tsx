@@ -42,14 +42,14 @@ const items = [
     org: "Google Cloud Skills Boost",
     date: "Oct 2024",
     link: "https://www.cloudskillsboost.google/public_profiles/57aba701-53d4-4f7a-840d-5de145af9f57/badges/11800271?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share",
-    logo: "public/images/Google.png",
+    logo: "/public/images/Google.png",
   },
   {
     title: "AI Creators Internship",
     org: "Swecha Telangana",
     date: "Aug 2024",
     link: "https://drive.google.com/file/d/1NjdDBT0gtG571gOpAYuKTD1a5_w5fMo6/view?usp=drive_link",
-    logo: "/public/images/Swecha.jpeg",
+    logo: "/public/images/Swecha.png",
   },
   {
     title: "Programming in C# Certification",
