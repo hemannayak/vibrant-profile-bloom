@@ -20,7 +20,7 @@ const items = [
   {
     company: "Excelerate",
     role: "Data Analyst Trainee Intern",
-    period: "July 2025 – August 2025",
+    period: "July 2025 – Present",
     logo: "/images/Exe.png",
     points: [
       "Trained in core data analytics concepts, including data cleaning, visualization, and reporting.",
@@ -49,7 +49,7 @@ const items = [
       "Documented work and maintained all projects in a public GitHub repository for transparency and collaboration.",
     ],
     offer: "https://drive.google.com/file/d/14-L-zowOROHOjBNoJowFhY-qf-iY8EBF/view?usp=sharing",
-    certificate: "#",
+    certificate: "https://drive.google.com/file/d/13CljknxNSst-JBns1f5rqaBRyDO-q4XS/view?usp=sharing",
   },
   {
     company: "Edunet Foundation",
@@ -64,7 +64,7 @@ const items = [
       "Provided insights to support infrastructure planning and policy decisions.",
     ],
     offer: "https://drive.google.com/file/d/1EQJ0ZW3HzZ-mnF9f8fWNHmb4WnMYP-H0/view?usp=sharing",
-    certificate: "#",
+    certificate: "https://drive.google.com/file/d/1Nvq2TJ72TIXuCWY6ee3kvUxvCyEuiU9o/view?usp=sharing",
   },
   {
     company: "ApexPlanet Software Pvt Ltd",
@@ -80,7 +80,7 @@ const items = [
       "Task 5: Developed and optimized a fully responsive personal portfolio web application, improving load speed through asset optimization and ensuring cross-browser compatibility.",
     ],
     offer: "https://drive.google.com/file/d/1897_1BAq8lJbHDbuRiAogQMM0slVNAh4/view?usp=sharing",
-    certificate: "#",
+    certificate: "https://drive.google.com/file/d/1YBWgrEPoJvNq3JS81HhBFk7jPh1UYr7P/view?usp=sharing",
   },
   {
     company: "VaultofCodes",
@@ -95,7 +95,7 @@ const items = [
       "Explored automation workflows integrating LLMs into real-world tasks.",
     ],
     offer: "https://drive.google.com/file/d/1B4h_XM1Fd64mCb6D1rW-zvgVSaaqKOt3/view?usp=sharing",
-    certificate: "#",
+    certificate: "https://drive.google.com/file/d/1Hbzz_Jp0bnw-hgUb4nchma5Gs0Rm2Qbe/view?usp=sharing",
   },
   {
     company: "CodeAlpha",
@@ -110,7 +110,7 @@ const items = [
       "Applied portfolio-focused best practices by publishing code on GitHub and presenting project outcomes.",
     ],
     offer: "https://drive.google.com/file/d/1-2jGsdQ2TIFu6avJpcSj2IidTUkZ-zw-/view?usp=sharing",
-    certificate: "#",
+    certificate: "https://drive.google.com/file/d/1G5Wr2gx3jCtvTNTRe5xW4V-wsgr91aLm/view?usp=sharing",
   },
   {
     company: "HITAM",
