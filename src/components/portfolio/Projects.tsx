@@ -6,7 +6,7 @@ const items = [
   {
     title: "SnapFix – AI-Powered Civic Platform for Pothole Reporting",
     desc: "Civic-tech solution to combat India’s pothole crisis. Users upload pothole images, AI validates & detects risk, auto-reports are generated with GPS, and community voting ensures transparency. Real-time maps, dashboards, and gamified UX drive public engagement. Built at Quantanova V1 SMEC Hackathon – Top 25 out of 110+ teams.",
-    image: "/images/Snapfix.png",
+    image: "/images/Snap.png",
     tech: ["ReactJS", "Tailwind", "Flask", "Teachable Machine", "Firebase", "MongoDB Atlas", "Leaflet.js"],
     live: "https://tech-nova-smec-quantanova.vercel.app/",
     Github: "https://github.com/hemannayak/TechNova_SMEC_Quantanova"
@@ -14,7 +14,7 @@ const items = [
   { 
     title: "EV Demand Prediction Dashboard", 
     desc: "AI-powered tool forecasting EV growth and charging demand using Random Forest Regression. Interactive dashboard with CSV export, trend analysis, and Streamlit deployment.", 
-    image: "/images/Ev_Prediction.png",
+    image: "/images/EV.png",
     tech: ["Python", "Streamlit", "TensorFlow", "Pandas"],
     live: "https://github.com/hemannayak/EV_Vehicle_Charge_Demand", 
     Github: "https://evvehiclechargedemand-ks6y7qnqpenjnvkp7apdpo.streamlit.app/" 
